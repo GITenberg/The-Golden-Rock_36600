@@ -1,0 +1,36 @@
+_repo: The-Golden-Rock_36600
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Wood, Stanley L.
+    alias: Wood, Stanley Llewellyn
+    birthdate: 1866
+    deathdate: 1928
+    gutenberg_agent_id: '4541'
+    url: http://www.gutenberg.org/2009/agents/4541
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Glanville, Ernest
+    birthdate: 1856
+    deathdate: 1925
+    gutenberg_agent_id: '7495'
+    url: http://www.gutenberg.org/2009/agents/7495
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_Glanville
+description: ''
+gutenberg_issued: '2011-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36600'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Africa -- Fiction'
+- !lcsh 'British -- Africa -- Fiction'
+title: The Golden Rock
+url: http://www.gutenberg.org/ebooks/36600
